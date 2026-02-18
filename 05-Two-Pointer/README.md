@@ -10,6 +10,7 @@ from opposite directions or different speeds.
 1. Two Sum (Sorted Array)
 2. Palindrome Check
 3. Palindrome Check (Ignoring Spaces)
+4. Palindrome ignoring uppercase/lowercase
 
 ---
 
